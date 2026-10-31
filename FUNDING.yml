@@ -1,2 +1,5 @@
 patreon: debridmediamanager
 github: debridmediamanager
+# A Patreon pledge or a GitHub sponsorship grants access only once it is linked on gatekeeper,
+# which also takes cards.
+custom: ["https://gatekeeper.debridmediamanager.com/"]
